@@ -1,0 +1,41 @@
+#universe #Earth #OuterNet 
+- # Time
+	- #### How is Time Determined?
+		- Time within the universe is determined by the OuterNet Central Systems. The Central Systems views the timestream as a constant, so everyone in the universe can see the same time regardless of relativity. Since there aren't any stars all Domes can sync their Bosons to the same schedule. 
+	- #### Run
+		- The term used for the length of a Boson cycle
+			- Each cycle is twelve hours
+	- #### Cycle
+		- The term used for two Boson cycles
+			- The equivalent of 24 hours
+	- #### Quart
+		- The term used for 40 full Boson cycles 
+			- Similar to a month
+	- #### Ion
+		- The term used for 10 Quarts
+			- 400 full Boson cycles, similar to a year
+			- Every 10,000 years the calander resets and a tally is added to the Grand Almanac. The year 0 was when Earth was consumed by the sun. Earth was the origin of many sentient species before they went to the stars.
+- # Words & Phrases
+	- #### Metal Head
+		- (Meh-tal Heh-d) Someone who has visible or a large amount of cyber-ware
+	- #### Null
+		- (Nuh-L) The word used for an unclaimed planet or piece of territory. Planets are considered Null if they haven't been terraformed, turned into a Dome, or claimed for resources.
+	- #### X-Class (A,B,C,D,F)
+		- (Cuh-lass) Any stellar body is put into a class of how dense the gravity on the surface is. This can be affected by other objects nearby, black holes, or even high volume material. 
+			- Ex: Black holes are A-Class, gas giants or planets near black holes have B class, the average Dome has C-Class, the average moon has D-Class, and F-Class is zero gravity.
+			- Earth would be considered C-Class
+	- #### Slag
+		- (S-lag) Slag is the main weapon used within the universe. Slag is iron oxide that has been superheated to the material's critical point. At this stage the iron oxide doesn't follow the laws of physics and thermodynamics. When struck with slag it will burn through most armor types, flesh, and bone. It also is easily able to go up to 20 times the speed of sound when pressurized. However, slag is known to be used in every type of weapon, swords, guns, gauntlets, etc. No weapon can compete with slag.
+	- #### TI Signature
+		- (Tee-eye Sig-na-chu-re) A TI Signature, colloquially referred to as your tie, is a string of numbers and letters that represent something. Most commonly you will see ships and Domes using this number, but it can also represent people, products, companies, or really anything. For more look to the Tzar Institution page.
+	- #### Moon Dance
+		- (Moo-n D-ann-ss) The term moon dance is a term used for a fight to the death with no looking back and no punches held. 
+- # Products
+	- #### OuterNet
+		- The new internet system that utilizes the timestream like radio waves to send and receive information. This way people for either side of the universe can seamlessly connect. Unfortunately there is no way to view the timestream through the OuterNet, it is only a conductor for this information.
+	- #### Domes
+		- 
+	- #### Weavers
+		- A device that synthesizes various materials or products from blueprints. A Weaver is most commonly related to a 3D printer.
+	- #### Quill
+		- The currency used throughout the universe.+

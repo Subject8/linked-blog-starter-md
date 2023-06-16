@@ -1,0 +1,13 @@
+#ProdigyIndustries 
+- # Overview
+	- The Prodigy Industries corporation is the leading company is body modifications and medical technology. From genetic modification to cyber-ware to MRI machines Prodigy Industries does it all! Almost every hospital in the universe is completely owned by Prodigy Industries. Their healthcare companies are known for cutting every cost possible. They often deny family care, cut on custodial costs, and upcharge everything.
+- # Values
+	- #### Prodigy Tenets
+		- Keep profits as high as possible, the shareholders suffer more than our patients do
+		- Cyber-ware should only work within subscription based services to keep customers paying
+		- A smile and a laugh is the best way to to cure a sick person! Especially when the sick person doesn't have insurance
+		- Hospitals in low-income systems should charge more in order to give the poorer people a better experience
+		- Hospitals can be dangerous places for patients, so to ensure safety no patient should ever stay more than three days at any clinic
+			- If a patient comes back to any location within 
+- # History
+	- X

@@ -1,0 +1,15 @@
+- # Overview
+	- A device that synthesizes various materials or products from blueprints. A Weaver is most commonly related to a 3D printer. Weavers are very common and used by all kinds of lifeforms. They can craft or un-craft most items which creates an easy way for shipping companies to cut costs. They are able to send large chunks of raw material that do not need to be packaged well.
+- # How it Works		
+	- Weavers have four tiers of creation timing. Depending on the tier something will be more or less expensive. These tiers are decided on how difficult the pattern of the material is. Each Dome places orders for raw materials from these five categories where they are then stored in large plants around the surface. The weavers on the planet are able to draw from these banks to generate items. Many sellers allow citizens to un-weave items for their raw material. This is the main way most pirates get their haul of Quill.
+		- Organics
+		- Metals
+		- Synthetics
+		- Crystalline
+		- Valuables
+			- Valuables can be any category but they are determined by a threshold of how hard the item is to find.
+- # Where it's Used
+	- X
+- # Creator
+	- Aldes Valorian - DEAD
+		- Aldes was a 

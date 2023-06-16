@@ -1,0 +1,9 @@
+- # Overview
+	- Made TI Numbers
+- # Values
+	- X
+- # History
+	- X
+- # TI Signature
+	- #### Domes
+		- A Dome's TI Signature consists of three characters. The first representing the historical founding, the second representing the Dome's main purpose, and the third representing the population of the Dome.

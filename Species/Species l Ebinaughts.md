@@ -1,0 +1,21 @@
+#Earth 
+- # Overview
+	- The Ebinaught (Eh-ben-ah) or _Domus Carnium_ are an ancient species of endosymbiotic invertebrates. Ebinaughts create shells that look like various buildings, similar to hermit crabs. These creatures are a galactic disease and can go millennia without being discovered. These creatures can spread into entire cities
+- # Creation
+	- During the (current day) era there was a planet named Earth where one of the first ancient intelligent species were born. After Earth's sun started to heat up the inhabitants were forced under the planet's oceans. From archeological research it was discovered that a tribe of these inhabitants used technology to splice their DNA with various sea creatures. Researchers postulate that this was done to better adapt to life underwater. A large portion of genes were spliced from Tunicates, a filter feeding invertebrate species. These new spliced creatures evolved on the desolate planet for millions of years until it was eventually swallowed by the system's sun. It is unknown on how these creatures were able to escape the planet.
+- # Abilities
+	- ##### Shells
+		- These creatures are able create cellulose and calcium oxalate at will, due to their genetic makeup this ability has been honed over millions of years. Ebinaughts use this ability to create these building like shells. Calcium oxalate is used to make various forms of concrete, and cellulose is used to make a kind of synthetic wood.
+- # Preferred Environments
+	- ###### Singular Organisms
+		- Usually wooden buildings, most often suburban houses
+	- ##### Multiple Organisms
+		- Young colonies of Ebinaughts form suburban neighborhoods, but given enough time they can form highly advanced cities.
+- # Life Cycle 
+	- ##### Birth
+		- If an Ebinaught is damaged it sheds the damaged part, not needed if a piece is chipped off, and those cells create a new Ebinaught. Only about a centimeter of material is needed to create a new creature.
+	- ##### Infant
+		- An infant Ebinaught can take the form of any small structure or object. Commonly they take form of Quills.
+	- ##### Adolescent
+	- ##### Adult
+	- ##### Elder

@@ -1,0 +1,131 @@
+ #ProdigyIndustries #Vale #Valorian #WolfTradingCo #Ascendancy #OperativeAlliance #Alpha #Beta #Charlie #Delta #Echo #Foxtrot #Glacier #Fundament #Construct #Requisite #Social #Life #Analytical #Physical #Universe 
+- # Overview
+	- The universe is split up into four sectors, or sects, each of them are ruled by the controlling governments. These sectors have fluctuated over the years through battles of territory control, often new systems of planets are discovered which leads to governments fighting for the resources on them. When looking at a system from largest body to smallest it goes sector, system, dome.
+		- Example: 
+			- The Ascendancy - Sector
+			- Alpha - System
+			- Alpha 1 - Dome
+- # Territory (Biggest to Smallest)
+	- #### How is a System Determined?
+		- A system is defined by a cluster of at least 3 Domes, although the average system has around 5. Planets that haven't been turned into domes or gravity locked into a system are considered Null.
+		- Domes use specific letters and numbers to identify the purpose of the planet. This is to support ease of travel for tourists, shipping, and various other companies.
+			- First Number: When the planet was established within the system in order
+			- First Letter: What the planet's primary purpose is
+				- T: Tourism
+				- C: Commercial
+				- B: Corporate
+				- M: Military
+				- I: Industrial
+				- R: Residential
+				- X: Capital of the system
+					- This is seen in conjunction with another letter
+			- Second Number: Population (Always seen after the letter & there is only one capital per sector) 
+				- 0: >1,000
+				- 1: 1,001 > 100,000
+				- 2: 100,001 > 500,000
+				- 3: 500,001 > 1,000,000
+				- 4: 1,000,001 > 50,000,000
+				- 5: 50,000,001 > 500,000,000
+				- 6: 500,000,001 > 1,000,000,000
+				- 7: 1,000,000,001 > 5,000,000,000
+				- 8: 5,000,000,001 > 10,000,000,000
+				- 9: <10,000,000,001
+	- #### The Ascendancy
+		-  Alpha
+			-  Alpha 1B8
+			- Alpha 2M4
+			- Alpha 3R5
+			- Alpha 4M5
+			- Alpha 5R4
+			- Alpha 6M3
+			- Alpha 7I6
+			- Alpha 8I4
+			- Alpha 9I5
+			- Alpha 10C
+			- Alpha 11R4
+			- Alpha 12I9
+		- Beta
+			- Beta 1I2
+			- Beta 2I3
+			- Beta 3I3
+			- Beta 4R4
+			- Beta 5I3
+		- Charlie
+			- Charlie 1M6
+			- Charlie 2M3
+			- Charlie 3M2
+			- Charlie 4M4
+			- Charlie 5B3
+		- Delta
+			- Delta 1B2
+			- Delta 2M2
+			- Delta 3M4
+			- Delta 4M1
+		- Echo
+			- Echo 1T5
+			- Echo 2R3
+			- Echo 3T4
+		- Foxtrot
+			- Foxtrot 1C2
+			- Foxtrot 2C4
+			- Foxtrot 3M5
+		- Glacier
+			- Glacier 1B0
+			- Glacier 2I1
+			- Glacier 3I1
+	- #### The Operative Alliance
+		- Prodigy Industries
+			- Prodigy 1B4
+			- Prodigy 2B3
+			- Prodigy 3C4
+			- Prodigy 4R7
+			- Prodigy 5B5
+		- Vale
+			- Vale 1I4
+			- Vale 2B3
+			- Vale 3I6
+			- Vale 4I8
+			- Vale 5I4
+		- Wolf Trading Co
+			- Wolf 1I4
+			- Wolf 2I2
+			- Wolf 3I8
+			- Wolf 4B3
+		- Valorian 
+			- Valorian 1BX9
+		- Tzar Institution
+			- Tzar 1B5
+			- Tzar 2B7
+			- Tzar 3B4
+			- Tzar 4R3
+	- #### The Watchmen's Republic
+		- Primary
+			- Primary 1BX7
+			- Primary 2B5
+			- Primary 3R2
+			- Primary 4B4
+			- Primary 5B3
+		- Social
+			- Social 1B6
+			- Social 2B5
+			- Social 3B6
+			- Social 4R2
+		- Life
+			- Life 1B2
+			- Life 2B6
+			- Life 3I8
+			- Life 4R3
+		- Analytical
+			- Analytical 1R3
+			- Analytical 2B5
+			- Analytical 3B5
+			- Analytical 4B6
+		- Physical
+			- Physical 1B4
+			- Physical 2I7
+			- Physical 3B3
+			- Physical 4B5
+	- #### The Terran Federation
+		- Fundament 1TX6
+		- Construct 2B4
+		- Requisite 3M5

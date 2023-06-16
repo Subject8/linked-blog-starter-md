@@ -1,0 +1,12 @@
+#OuterNet
+- # Overview
+	- The Grand Almanac is a part of the OuterNet separate from any government or person. The Grand Almanac's only purpose is to tell the history of sentient life in case of universal war or collapse. Because the OuterNet uses the time stream people believe it possible for future life outside of the universe we know to be able to reach it.
+- # How it Works
+	- The Grand Almanac is separated into multiple sections, OuterNet history, sentient history, and universal history. Each section highlights a different aspect of the past and recounts all detail to prevent bias. Every calander reset each high ranking government official meets to discuss the contents of 
+- # Where it's Used
+	- X
+- # Creator
+	- X
+- # Other
+	- #### Ion Count
+		- Every 10,000 years, calander reset, a tally is added to the Grand Almanac to count how long life has existed. The current tally count is 9,700,000,000. The start of this tally count was when Birth World (Earth) was consumed by its sun.

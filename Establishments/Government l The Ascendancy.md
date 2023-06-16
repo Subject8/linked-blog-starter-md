@@ -1,0 +1,92 @@
+#Ascendancy 
+- Authoritarian Right: Ruling authority owns your body, but not your wealth.
+	- Examples: Most forms of Fascism, Francoism, National Front (France), UKIP (United Kingdom), AFD (Germany). Arguably: Republican Party (USA), United Russia (led by Vladimir Putin).
+- # Overview
+	- Citizens of The Ascendancy are referred to as Ascendants. The Ascendancy is a government founded within martial law. They were once a branch of The Operative Alliance during the Midnight War, but through corporatization and the rise in corporate Domes they split off. The Ascendancy is bent on keeping all of their citizens safe within the sector boarders. They are notoriously mean and often raid other sectors for territory.
+- # Policies
+	- ## Citizen's Guide
+		- The following Acts are rules in a book sent out every 10 Ions to all citizens within The Ascendancy sector. This book outlines all of the laws and policies that citizens are required to follow.
+	- #### Prison Reduction Act:
+		- Everyone has the right to reduce their prison sentence by serving time within the military
+	- #### National Security Act:
+		- Any act deemed a threat to national security, as determined by the government, is punishable by severe penalties, including imprisonment or even capital punishment.
+	- #### Industrial Production Act:
+		- All industrial and manufacturing enterprises must prioritize government-mandated production targets, with strict penalties for non-compliance. The government has the authority to take over any industry or factory to ensure production goals are met.
+	- #### Corporate Loyalty Act:
+		- Corporations and businesses are required to demonstrate unwavering loyalty to the government. Failure to comply or any act of resistance may result in forced nationalization, heavy fines, or dissolution of the company.
+	- #### Censorship and Propaganda Act:
+		- The government controls all media outlets, and dissemination of any information deemed contrary to the government's narrative is strictly prohibited. Access to foreign media or information sources is heavily restricted.
+	- #### State Surveillance Act:
+		- Extensive surveillance measures are implemented to monitor citizens' activities, both online and offline. Privacy rights are severely curtailed, and any opposition or dissent can be swiftly identified and suppressed.
+	- #### Labor Mobilization Act:
+		- The government has the power to conscript laborers and assign them to industries or projects deemed essential for national development. Refusal to comply with work assignments is considered a criminal offense.
+	- #### Suppression of Trade Unions Act:
+		- Trade unions and labor organizations are heavily regulated and restricted. Strikes, collective bargaining, or any form of organized labor action are prohibited, with severe consequences for those involved.
+	- #### Anti-Dissent Act:
+		- Expressing dissent against the government, its policies, or its actions is strictly prohibited. Public criticism, protests, or any form of resistance can lead to arrest, imprisonment, or even disappearance.
+	- #### Economic Monopoly Act:
+		- The government grants special privileges and advantages to a select group of large corporations, allowing them to dominate the market and eliminate competition. Smaller businesses are subject to stringent regulations and high taxes.
+	- #### Martial Law Act:
+		- The government has the authority to declare martial law in times of perceived crisis or internal instability, but The Ascendancy has no requirement to disclose this reason to citizens. During martial law, civil liberties are suspended, and the military assumes control over law enforcement and governance.
+	- #### Forced Labor Act: 
+		- The government can compel citizens to perform labor for the state without consent or fair compensation. Failure to comply can result in imprisonment or other punitive measures.
+	- #### State Secrets Act: 
+		- Any unauthorized disclosure of classified information is considered treason and is punishable by severe penalties, including imprisonment or execution. Whistleblowers are actively sought out and prosecuted.
+- # Systems
+	- #### Alpha
+		- Alpha is the largest system within The Ascendancy sector. As this is the largest system it represents the core values of The Ascendancy with the majority of the Domes being focused on military and industrial ideals.
+	- #### Beta
+		- Beta is the second largest system within The Ascendancy sector. The Beta system is the most prolific industrial system in the sector. Most people dread coming though here because of how bleak and lifeless all of the Domes are. However depressing the Beta system is, it turns out numbers. The Ascendancy is very hard on citizens here getting work done, often citizens work themselves to death on the assembly line just to make ends meet.
+	- #### Charlie
+		- Charlie is the third largest system within The Ascendancy sector. This is where all of the training for military recruitments takes place. Each year millions of recruits move through the various Domes regarding their military branch and status. 
+	- #### Delta
+		- Delta is the fourth largest system within The Ascendancy sector. This is another military based system, but this system focuses on education of high ranking military officials. All of the best military schools in the universe are held within this system.
+	- #### Echo
+		- Echo is the fifth largest system within The Ascendancy sector. This system is what many regard as the only place you'll ever see an Ascendant smile. The Echo system has beautiful terraformed planets and one of the largest amenity based residential Domes in the universe. People from all over go through the egregious process to get into this sector just for the Echo system.
+	- #### Foxtrot
+		- Foxtrot is the sixth largest system within The Ascendancy sector. Foxtrot is filled with commercial malls and shopping centers. Each Ion the Foxtrot system accounts for almost 20% of all government wealth. The popular trip between the Echo and Foxtrot systems is a vacation almost every person in the universe experiences at least once in their life. Due to the high traffic levels one of The Ascendancy's largest military bases is inside of the system. This was done to protects both people inside and outside of the Foxtrot system.
+	- #### Glacier
+		- Glacier is the seventh largest system within The Ascendancy sector. Glacier is a highly classified sector with almost no knowledge other than the TI Signature available to the public. Nobody without clearance will make it inside and outside of this system alive.
+- # Sector Overview
+	- #### Alpha
+		- Alpha 1B8
+		- Alpha 2M4
+		- Alpha 3R5
+		- Alpha 4M5
+		- Alpha 5R4
+		- Alpha 6M3
+		- Alpha 7I6
+		- Alpha 8I4
+		- Alpha 9I5
+		- Alpha 10C
+		- Alpha 11R4
+		- Alpha 12I9
+	- #### Beta
+		- Beta 1I2
+		- Beta 2I3
+		- Beta 3I3
+		- Beta 4R4
+		- Beta 5I3
+	- #### Charlie
+		- Charlie 1M6
+		- Charlie 2M3
+		- Charlie 3M2
+		- Charlie 4M4
+		- Charlie 5B3
+	- #### Delta
+		- Delta 1B2
+		- Delta 2M2
+		- Delta 3M4
+		- Delta 4M1
+	- #### Echo
+		- Echo 1T5
+		- Echo 2R3
+		- Echo 3T4
+	- #### Foxtrot
+		- Foxtrot 1C2
+		- Foxtrot 2C4
+		- Foxtrot 3M5
+	- #### Glacier
+		- Glacier 1B0
+		- Glacier 2I1
+		- Glacier 3I1

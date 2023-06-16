@@ -1,0 +1,14 @@
+- # Overview
+	- The Bardon are a more recent species created by The Ascendency. Bardon are large creatures with color changing skin, four arms, five eyes, and long white hair. They are only ever seen within military settings and wars because of why they were created. Although few Bardon have been liberated they do not acclimate well to life outside of violence, and are often hunted down by The Ascendency or hired guns.
+		- Bardon have four eyes in a triangle pattern on their head, and one eye directly on the back of their head.
+- # Creation
+	- Bardon were carefully crafted to be military powerhouses. Their genealogy is difficult to pinpoint because the first Bardon was incubated for ~500 years and had thousands of changes to its DNA
+- # Preferred Environments
+	- #### War Zones
+		- Bardon are often seen moving from 
+- # Life Cycle
+	- ##### Birth
+	- ##### Infant
+	- ##### Adolescent
+	- ##### Adult
+	- ##### Elder

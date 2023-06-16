@@ -1,0 +1,54 @@
+#Watchmen #Social #Life #Analytical #Physical
+- Authoritarian Left: Ruling authority owns your body and your wealth.
+	- Examples: most forms of Communism, Maoism, Stalinism, Marxism-Leninism, “Ingsoc” from 1984. Arguably: some forms of Fascism (such as Nazism).
+- # Overview
+	- The Watchmen's Republic is a society entirely dedicated to the continuation of life and the research of the universe. Watchmen Domes are almost entirely dedicated to research and science. Citizens of the Watchmen's Republic are some of the most highly educated in the entire universe. All of the Watchmen's Republic's policies are outlined in their document "The Court of Law"
+- # Policies
+	- #### The Court of Law
+		- There is nothing above the continuation of science and the prosperity of life
+		- All citizens are to be removed from their parents upon birth and sent immediately sent to education centers
+		- All citizens are to go through a minimum of 25 years of education
+		- All citizens are to choose their specialty by year 10 and changes to this path are punishable by exile
+		- All citizens are to contribute scientifically to society until they have reached their species' elder age
+		- Any citizen not able to contribute scientifically to society are to be exiled and charged with treason
+		- Any citizen who exempts themselves from the education system will be seen as an enemy of the state
+		- Any citizen is free to protest government values, as questioning the environment is something each citizen should do, so long as they do not disrupt the scientific progress of the Republic
+		- Foreign entities are treated as allies no matter their own values
+- # People
+	- #### Leadership
+		- Mosco Manella | Species
+			- The Council of Social Sciences
+		- Sylvan Barbeck
+			- The Council of Life Sciences
+		- Akmir Mushal
+			- The Council of Analytical Sciences
+		- Kit'Han Rakuul
+			- The Council of Physical Sciences
+	- #### Historical Figures
+- # Systems
+	- Primary
+		- Primary 1BX7
+		- Primary 2B5
+		- Primary 3R2
+		- Primary 4B4
+		- Primary 5B3
+	- Social
+		- Social 1B6
+		- Social 2B5
+		- Social 3B6
+		- Social 4R2
+	- Life
+		- Life 1B2
+		- Life 2B6
+		- Life 3I8
+		- Life 4R3
+	- Analytical
+		- Analytical 1R3
+		- Analytical 2B5
+		- Analytical 3B5
+		- Analytical 4B6
+	- Physical
+		- Physical 1B4
+		- Physical 2I7
+		- Physical 3B3
+		- Physical 4B5

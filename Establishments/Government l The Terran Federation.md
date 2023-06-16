@@ -1,0 +1,24 @@
+#TerranFederation 
+- # Overview
+	- The Terran Federation is a Government system that has strong values of independence, ecological freedom, and physical labor. 
+- # Policies
+	- Any people under the Terran Federation should be completely free socially. 
+	- The government is only there to help stabilize the economy and keep living conditions up.
+	- Each Dome is free to decide their own policies as long as they do not interfere with the basic human rights outlined in the Core.
+		- The Core is the document in which all of the people's rights under the federation are outlined.
+			- The people's rights to privacy behind closed doors is never to be infringed upon
+			- As long as they are not dangerous to the population no species should be denied citizenship to anywhere under the rule of The Terran Federation
+			- Plants are granted the same rights as animals and they have the right to grow as they please
+			- The destruction or gentrification of plants or their territory on any Dome will be considered the same as murder or treason
+			- The military is a separate entity to the government and should never be allowed to impose martial law
+			- Imprisonment of any creature will be condemned by the state as rehabilitation is the only punishment recognized by The Terran Federation
+			- There will be a maximum and minimum wage enforced on all citizens, excess money will go to the betterment of all Terran citizens
+			- Infringement of any creature's rights will strip you of your citizenship
+			- Any war or military action must be voted on by the people before action is to happen, regardless of circumstance
+			- All government documents are free to the people as information should not be kept from those it pertains to
+- # People
+	- X		
+- # Systems
+	- Fundament 1TX8
+	- Construct 2B5
+	- Requisite 3M6

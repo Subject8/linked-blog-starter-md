@@ -1,0 +1,7 @@
+- # Overview
+	- Domes are repurposed planets that have been hollowed out and replaced with large cities and artificial suns. These suns are quite small and do not emit enough heat to harm the inhabitants of the city. These suns or, Bosons, generate heat, electricity, and vitamins for the cities and citizens.
+		- Bosons are named after Higgs-Boson particles which are theoretically responsible for giving any particle any mass. Just as the universe couldn't exist without these particles, life could not exist without these artificial suns.
+- # Creation
+	- The Boson was created by a Vanessa Valorian, a renown Watchmen scientist from the Midnight Era. Although she is reguared as the savior of sentient life and one of the greatest minds to ever live she is hated by the Watchmen's Republic. As she started the Valorian company thus creating the mega-corporation populated System
+- # Locations
+	- 

@@ -1,0 +1,12 @@
+- # Overview
+	- Arcons are tall nimble creatures with three fingers defined mostly by their glowing skin. Arcons range from 6 to 10 feet tall and the intricate patterns on their skin faintly glow a deep purple. These patterns are said to be premonitions of their lives, wars, or even universal events. Arcons are usually psychically in tuned and aren't seen within any business or science Sector, although it is possible. 
+- # Creation
+	- Arcons are one of the many species that are descendants of humans. Although their origin remains a mystery the popular theory is that these creatures evolved near high density o
+- # Preferred Environments
+	- X
+- # Life Cycle
+	- ##### Birth
+	- ##### Infant
+	- ##### Adolescent
+	- ##### Adult
+	- ##### Elder
